@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+
+
+
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline turquoise;
+    }
+h6{
+    font-family: "Libre Barcode 128 Text", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    } 
+.front{
+width: 100%;
+height: auto%;
+overflow: hidden;
+display: ;
+justify-content: center;
+align-items: center;
+z-index: 1;
+}
+.front video{
+animation-play-state: running;
+position: relative;
+top: 0;
+left: 0;
+object-fit: cover;
+width: 100%;
+height: 50%;
+z-index: 2;
+}
+.front_content{
+    
+        font-family: "Anton", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+position: relative;
+z-index: 1;
+max-width: fit-content;
+margin: 0 auto;
+text-align: center;
+font-family: ;
+}
+.Tipologias
+{
+background-color: aqua;
+}

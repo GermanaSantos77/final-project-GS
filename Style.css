@@ -1,0 +1,110 @@
+body{
+    margin: 1%;
+    padding: 0;
+    height: 100px;
+}
+
+.menu{
+    margin-bottom: 10%
+    border-bottom 10%;
+    padding-bottom: 10%;
+    }
+
+tr{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.banner {
+    height: 500%;
+    overflow: /*hidden;
+    display:/* flex*/;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner video{
+    animation-play-state: running;
+    position: absolute;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    }
+
+.banner .content {
+    position: absolute;
+    z-index: 1;
+    max-width: fit-content;
+    margin: 0;
+    text-align: center;
+    width: fit-content;
+    }
+
+.banner .content h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+    color: aquamarine;
+    text-decoration: underline color pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+
+.banner .content h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: pink;
+    text-decoration: underline color aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+
+    .button-1 {
+        background-color: #EA4C89;
+        border-radius: 8px;
+        border-style: none;
+        box-sizing: border-box;
+        color: aquamarine;
+        cursor: pointer;
+        display:block;
+        font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        height: 40px;
+        line-height: 20px;
+        list-style: none;
+        margin: 0;
+        outline: none;
+        padding: 10px 16px;
+        position: relative;
+        text-align: center;
+        text-decoration: none;
+        transition: color 100ms;
+        vertical-align: baseline;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+      }
+    
+.Tipologias{
+    display: block;
+    position: ;
+margin: 5%
+    border: 5%;
+    padding: 5%;
+    background-color: aqua;    
+}
+    
+
+.quadro_resumo{
+
+}
+h6{
+    font-family: "Libre Barcode 128 Text", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+}
+.footer{
+}
